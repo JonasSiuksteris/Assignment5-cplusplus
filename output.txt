@@ -1,0 +1,49 @@
+Word 'a' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
+Word 'are' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
+Word 'asd' is repeated 2 times:
+Line 3 - 2 times
+
+
+Word 'friends' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
+Word 'good' is repeated 4 times:
+Line 1 - 2 times
+Line 2 - 2 times
+
+
+Word 'having' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
+Word 'hey' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
+Word 'my' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
+Word 'time' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
+Word 'you' is repeated 2 times:
+Line 1 - 1 times
+Line 2 - 1 times
+
+
