@@ -18,4 +18,6 @@
 *.out
 *.app
 .idea/
+input.txt
+output.txt
 cmake-build-debug/
