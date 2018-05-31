@@ -2,7 +2,6 @@
 #include <fstream>
 #include <map>
 #include <vector>
-#include <sstream> /// https://stackoverflow.com/questions/18318980/taking-input-of-a-string-word-by-word
 #include <algorithm>
 
 using namespace std;
@@ -27,7 +26,7 @@ int main()
                     i++;
                     word.push_back(line[i]);
                 }
-                cout << word << endl;
+                transform(word.begin(), word.end(), word.begin(), ::tolower);
                 Count[word]++;
                 Place[word][lineNumber]++;
                 word = "";

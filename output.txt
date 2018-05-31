@@ -8,8 +8,8 @@ Line 1 - 1 times
 Line 2 - 1 times
 
 
-Word 'asd' is repeated 2 times:
-Line 3 - 2 times
+Word 'asd' is repeated 3 times:
+Line 3 - 3 times
 
 
 Word 'friends' is repeated 2 times:
